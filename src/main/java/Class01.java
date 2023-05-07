@@ -9,6 +9,7 @@ public class Class01 {
         // v5 kisa yoldan commmit
         // v6 kisa yoldan commmit
         //v7
+        //Github degisiklikleri
 
 
     }
