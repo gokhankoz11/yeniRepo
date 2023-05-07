@@ -8,6 +8,7 @@ public class Class01 {
         // v4 kisa yoldan commmit
         // v5 kisa yoldan commmit
         // v6 kisa yoldan commmit
+        //v7
 
 
     }
