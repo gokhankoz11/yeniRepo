@@ -10,6 +10,7 @@ public class Class01 {
         // v6 kisa yoldan commmit
         //v7
         //Github degisiklikleri
+        // Local den sevgilerle
 
 
     }
