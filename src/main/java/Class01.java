@@ -5,7 +5,7 @@ public class Class01 {
         //V2 üzerine calismalar...
         System.out.println("V3 kodlari"); //v3
 
-
+    // v4 kisa yoldan commmit
 
 
     }
